@@ -1,4 +1,4 @@
-package com.svalero.academia.domain;
+package domain;
 
 import java.util.Objects;
 
